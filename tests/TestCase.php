@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 namespace Simtabi\Laranail\Ichava\IconSetsMdi\Tests;
 
-use Simtabi\Laranail\Ichava\IconSetsMdi\Providers\IconsServiceProvider;
 use Simtabi\Laranail\Ichava\Testing\PackTestCase;
+use Simtabi\Laranail\Ichava\IconSetsMdi\Providers\IconsServiceProvider;
 
 /**
  * Boots core and this pack, on the database `DB_CONNECTION` names and a
