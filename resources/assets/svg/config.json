@@ -50,7 +50,12 @@
     }
   },
   "config": {
-    "icon_prefix": "mdi"
+    "icon_prefix": "mdi",
+    "defaults": {
+      "attributes": {
+        "fill": "currentColor"
+      }
+    }
   },
   "upstream": {
     "source": {
